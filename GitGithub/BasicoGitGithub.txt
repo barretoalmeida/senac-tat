@@ -1,0 +1,33 @@
+1  poweroff
+    2  sudo
+    3  sudo apt update 
+    4  sudo apt upgrade 
+    5  sudo apt upgrade --fix-missing
+    6  sudo apt autoremove
+    7  sudo apt autoclean 
+    8  sudo reboot
+    9  sudo apt install curl
+   10  sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+   11  echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+   12  sudo apt update
+   13  sudo apt install brave-browser
+   14  sudo apt install chromium
+   15  sudo apt update 
+   16  sudo apt upgrade 
+   17  sudo apt update 
+   18  sudo apt install git vim
+   19  sudo apt install kolourpaint
+   20  sudo apt install notepadqq
+   21  sudo apt vlc audacity
+   22  sudo apt install  vlc audacity
+   23  sudo apt install kazam
+   24  sudo apt install linux-oem-24.04b
+   25  sudo reboot
+   26  git
+   27  git config --global user.nam "Gabriely Barreto"
+   28  git config --global user.email 
+   29  git config --list
+   30  exit
+   31  git clone https://github.com/barretoalmeida/senac-tat
+   32  exit
+   33  history

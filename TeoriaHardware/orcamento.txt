@@ -1,0 +1,105 @@
+1-	Montar um PC AMD com Placa de vídeo NVIDIA com R$ 5.500,00 a R$ 6000,00
+
+Processador:  AMD Ryzen 5 5600X, 3.7GHz (4.6GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4
+Valor 1.099,90 (terabyte)
+Placa Mãe: Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4
+Valor 999,90 (terabyte)
+Memória RAM (DDR4): Kingston Fury Beast, 8GB, 3200Mhz, Black
+Valor:164,90  2x: 329,80 (terabyte)
+Armazenamento: (SSD – HD): Adata Legend 710 256GB, M.2 2280 NVMe, Leitura 2100MBs e Gravação 1000MBs, ALEG-710-256GCS
+Valor: 149,99 (terabyte)
+Placa de Vídeo: MSI NVIDIA GeForce RTX 3060 VENTUS 2X OC, LHR, 12GB GDDR6,
+Valor: 1.949,99 (pichau)
+Fonte: MSI MAG A850GL PCIE5, 850W, 80 Plus Gold, PFC Ativo, Full Modular, Preto, MAG A850GL PCIE5
+Valor: 599,90 (terabyte)
+Gabinete (FAN*): Gamer Montech X3 Glass, Mid Tower, Black, ATX, Com 6 Fans, Vidro Temperado
+Valor: 399,90 (terabyte) 
+Arrefecimento (Air Cooler ou Water Cooler) o gabinete já vem com fan
+
+Valor total: 5.529,38
+
+
+
+
+
+
+
+
+
+2-	Montar um PC AMD com Placa de vídeo AMD com R$ 5.500,00 a R$ 6000,00
+
+Processador: AMD Ryzen 7 5800XT 3.8GHz (4.8GHz Turbo), 8-Cores 16-Threads, AM4, Cooler AMD Wraith Prism
+Valor: 1.649,99
+Placa Mãe: Gigabyte B550M AORUS Elite, Chipset B550, AMD AM4, mATX, DDR4
+Valor 999,90
+Memória RAM (DDR4): Memória DDR4 Kingston Fury Beast, 8GB, 3200Mhz, Black
+Valor:164,90 2x: 329,80
+Armazenamento (SSD):  Adata Legend 710 256GB, M.2 2280 NVMe, Leitura 2100MBs e Gravação 1000MBs,
+Valor: 149,99
+Placa de Vídeo: PowerColor Radeon RX 7600 Fighter, 8GB, GDDR6, 128-bit, RX7600-8G-F
+Valor: 1.799,99
+Fonte: MSI MAG A850GL PCIE5, 850W, 80 Plus Gold, PFC Ativo, Full Modular, Preto, MAG A850GL PCIE5
+Valor: 599,90
+Gabinete (FAN*): Gamer Montech X3 Glass, Mid Tower, Black, ATX, Com 6 Fans, Vidro Temperado
+Valor: 399,90
+
+Arrefecimento (Air Cooler ou Water Cooler)
+Valor total: 5.929,47
+
+
+
+
+
+
+
+
+3-	Montar um PC Intel com Placa de vídeo NVIDIA com R$ 5.500,00 a R$ 6000,00
+
+Processador: Processador Intel Core i7-12700F, 12-Core, 20-Threads, 2.1GHz (4.9GHz Turbo), Cache 25MB, LGA1700,
+Valor: 1.804,99
+Placa Mãe: Placa Mãe Asus TUF Gaming B760M-PLUS II, Chipset B760, Intel LGA 1700, mATX, DDR5
+Valor 999,99
+Memória RAM ( DDR5): Memoria Team Group T-Force Vulcan, 8GB (1x8GB), DDR5, 5200MHz, CL40, Preta
+valor: 339,99 2X 679,98
+Armazenamento (SSD):  Adata Legend 710 256GB, M.2 2280 NVMe, Leitura 2100MBs e Gravação 1000MBs,
+Valor: 149,99
+Placa de Vídeo: Placa de Vídeo Asus Dual NVIDIA GeForce RTX 3050 2X, 6GB, GDDR6, DLSS, Ray Tracing
+Valor: 1.199,90
+Fonte : Fonte XPG CORE REACTOR II, 850W, 80 Plus Gold, ATX 3.0, Full Modular, PFC Ativo
+Valor: 709,90
+Gabinete (FAN*):Gabinete Gamer SuperFrame Wind, Mid Tower, Vidro Temperado, M-ATX, White, Sem Fonte, Com 3 Fans1804,
+Valor: 229,90
+
+Arrefecimento (Air Cooler): Kit Fan Com 3 Unidades SuperFrame Cyclone V2, ARGB, 120mm, Branco
+Valor 129,90
+
+
+ Valor total : 5.904,55
+
+
+
+
+
+
+
+4-	Montar um PC Intel com Placa de vídeo AMD com R$ 5.500,00 a R$ 6000,00
+
+Processador: Intel Core i7-12700F, 12-Core, 20-Threads, 2.1GHz (4.9GHz Turbo), Cache 25MB, LGA1700,
+Valor: 1.804,99
+
+Placa Mãe: Asus TUF Gaming B760M-PLUS II, Chipset B760, Intel LGA 1700, mATX, DDR5
+Valor 999,99
+Memória RAM ( DDR5): Team Group T-Force Vulcan, 8GB (1x8GB), DDR5, 5200MHz, CL40, Preta
+valor: 339,99 2X 679,98
+Armazenamento (SSD): Adata Legend 710 256GB, M.2 2280 NVMe, Leitura 2100MBs e Gravação 1000MBs,
+Valor: 149,99
+Placa de Vídeo: ASRock Radeon RX 6500 XT Phantom Gaming D OC, 4GB, GDDR6, 64-Bit
+Valor: 1.199,99
+Fonte : XPG CORE REACTOR II, 850W, 80 Plus Gold, ATX 3.0, Full Modular, PFC Ativo
+Valor: 709,90
+Gabinete (FAN*) Gamer SuperFrame Wind, Mid Tower, Vidro Temperado, M-ATX, White, Sem Fonte, Com 3 Fans1804,
+Valor: 229,90
+Arrefecimento (Air Cooler ): Kit Fan Com 3 Unidades SuperFrame Cyclone V2, ARGB, 120mm, Branco
+Valor 129,90
+
+valor total: 5.904,64

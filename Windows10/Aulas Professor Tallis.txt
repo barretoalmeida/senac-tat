@@ -1,0 +1,18 @@
+Aulas Professor Tallis
+
+Sistemas operacional e virtualização 
+Windows XP (maquina virtual)
+nome: theo 
+memoria base: 2200 MB
+tamanho do disco: 10.00 GB
+
+Windows 7
+nome: gaby
+memoria base: 4000
+processador:2
+tamanho do disco: 40,50
+
+Windows 8
+memoria base:4000MB
+processador:2
+tamanho do disco:40Gb
